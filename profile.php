@@ -151,7 +151,7 @@ $student_name = $_SESSION['student-username'];
         				<h2 class="modal-title"> Update</h2>
         			</div>
 
-        			<!-- body begins here -->
+        			<!-- body begins from here! -->
         			<div class="modal-body">
         				<form role="form" >
         					<div class="input-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
